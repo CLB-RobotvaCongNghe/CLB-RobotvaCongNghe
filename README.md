@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/logo.png" alt="CLB Robot & Công nghệ - Khoa Điện & Tự động hoá (UNETI)" width="160" />
 
-  <h1>🤖⚙️ CLB Robot & Công nghệ</h1>
+  <h1>🤖 CLB Robot & Công nghệ ⚙️</h1>
   <h3>⚡ Khoa Điện & Tự động hoá — Trường Đại học Kinh tế - Kỹ thuật Công nghiệp (UNETI)</h3>
 
   <p>
