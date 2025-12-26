@@ -5,7 +5,7 @@
   <h3>⚡ Khoa Điện & Tự động hoá — Trường Đại học Kinh tế - Kỹ thuật Công nghiệp (UNETI)</h3>
 
   <p>
-    <b>🔥 Slogan:</b> <i>“Dám nghĩ, dám làm, dám chịu trách nhiệm.”</i>
+    <b>🔥</b> <i>“Dám nghĩ, dám làm, dám chịu trách nhiệm.”</i>
   </p>
 
   <p>
