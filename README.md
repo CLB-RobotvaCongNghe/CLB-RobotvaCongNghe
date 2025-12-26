@@ -5,15 +5,16 @@
   <h3>⚡ Khoa Điện & Tự động hoá — Trường Đại học Kinh tế - Kỹ thuật Công nghiệp (UNETI)</h3>
 
   <p>
-    <b>🔥</b> <i>“Dám nghĩ, dám làm, dám chịu trách nhiệm.”</i>
+    <b>🔥 Slogan:</b> <i>“Dám nghĩ, dám làm, dám chịu trách nhiệm.”</i>
   </p>
 
   <p>
     <a href="#-giới-thiệu">Giới thiệu</a> •
-    <a href="#-clb-làm-gì">Hoạt động</a> •
-    <a href="#-lộ-trình-cho-người-mới">Lộ trình</a> •
+    <a href="#-hoạt-động-nổi-bật">Hoạt động</a> •
+    <a href="#-sân-chơi--cuộc-thi">Sân chơi</a> •
     <a href="#-tham-gia--đóng-góp">Tham gia</a> •
-    <a href="#-liên-hệ">Liên hệ</a>
+    <a href="#-liên-hệ">Liên hệ</a> •
+    <a href="#-license">License</a>
   </p>
 
   <img src="https://img.shields.io/badge/Robotics-🤖-informational" />
@@ -33,8 +34,11 @@
 ## ✨ Giới thiệu
 **CLB Robot & Công nghệ** là cộng đồng dành cho sinh viên yêu thích **robotics 🤖**, **lập trình nhúng ⚙️**, **điện – điện tử 🔌**, **điều khiển 🎛️** và **tự động hoá ⚡** thuộc **Khoa Điện & Tự động hoá – UNETI**.
 
-CLB được xây dựng để tạo ra một môi trường **học thật – làm thật – chia sẻ thật**:  
-từ những buổi training nền tảng, đến các dự án team-based, workshop, nghiên cứu ứng dụng và tham gia các sân chơi kỹ thuật.
+CLB được xây dựng để tạo ra môi trường **học thật – làm thật – chia sẻ thật**, nơi mỗi thành viên có thể:
+- 📚 Nắm chắc nền tảng kỹ thuật
+- 🧪 Làm dự án thực tế theo nhóm
+- 🏆 Tham gia các sân chơi từ nhỏ đến lớn, đặc biệt là **Robocon**
+- 🤝 Kết nối – giao lưu – cùng nhau tiến bộ
 
 > 💬 Tinh thần CLB: **Dám nghĩ – Dám làm – Dám chịu trách nhiệm**  
 > ✅ Nghĩ có định hướng • ✅ Làm có kỷ luật • ✅ Chịu trách nhiệm đến cùng
@@ -46,73 +50,54 @@ từ những buổi training nền tảng, đến các dự án team-based, work
 Trở thành CLB học thuật mạnh của Khoa, nơi sinh viên **thực hành chuyên sâu** và tạo ra sản phẩm/đồ án có giá trị thực tiễn.
 
 ### 🚀 Sứ mệnh
-- 📚 Hỗ trợ sinh viên **xây nền tảng** về điện – điện tử – nhúng – điều khiển
-- 🧑‍🏫 Tổ chức **training / workshop / mentoring** theo lộ trình rõ ràng
-- 🧩 Xây dựng **dự án mở** để ai cũng có thể tham gia & đóng góp
-- 🏆 Chuẩn bị đội nhóm cho **cuộc thi robotics / sáng tạo kỹ thuật**
+- 📚 Hỗ trợ sinh viên **xây nền tảng** về điện – điện tử – nhúng – điều khiển – tự động hoá
+- 🧑‍🏫 Tổ chức **training / workshop / mentoring** và chia sẻ kinh nghiệm làm đồ án
+- 🧩 Xây dựng văn hoá **dự án mở**, cùng học cùng làm cùng chịu trách nhiệm
+- 🏆 Phát triển đội nhóm tham gia **cuộc thi kỹ thuật** và các sân chơi học thuật
 
 ---
 
-## 🛠️ CLB làm gì?
-### 1) 📖 Training theo lộ trình (từ cơ bản → nâng cao)
-- 🔌 **Điện – điện tử nền tảng**: linh kiện, mạch nguồn, đo kiểm, an toàn
-- ⚙️ **Nhúng & vi điều khiển**: Arduino / STM32 / ESP32 (tuỳ dự án)
-- 🧠 **Tư duy hệ thống**: đọc datasheet, debug, tối ưu, viết tài liệu
-- 🎛️ **Điều khiển**: PID cơ bản, điều khiển động cơ, robot di chuyển
-- 📡 **IoT**: MQTT/HTTP, dashboard giám sát, kết nối cảm biến
+## 🌟 Hoạt động nổi bật
+### 📖 Training & Workshop
+- 🔌 Điện – điện tử nền tảng, an toàn điện, đo kiểm
+- ⚙️ Vi điều khiển / lập trình nhúng (Arduino / STM32 / ESP32… tuỳ dự án)
+- 🎛️ Điều khiển động cơ, cảm biến, cơ cấu chấp hành
+- 🧠 Kỹ năng debug, đọc datasheet, tư duy thiết kế hệ thống
+- 🧾 Viết tài liệu, demo sản phẩm, thuyết trình dự án
 
-### 2) 🧪 Dự án thực tế (team-based)
-Một vài hướng dự án tiêu biểu:
-- 🤖 Robot line/maze, tránh vật cản, điều hướng cơ bản
+### 🧪 Làm dự án thực tế (team-based)
+- 🤖 Robot line/maze, robot tránh vật cản, robot điều hướng cơ bản
 - 🏭 Mô hình tự động hoá mini: băng tải, phân loại, mô phỏng sản xuất
-- 🌡️ Hệ thống giám sát môi trường: nhiệt độ/độ ẩm/khí, cảnh báo
-- 🏠 Smart home cơ bản: điều khiển thiết bị, đo điện năng, tự động hoá
-
-### 3) 🤝 Cộng đồng & chia sẻ
-- 🗓️ Sinh hoạt định kỳ, demo dự án
-- 🔎 Review code / review mạch / review thiết kế
-- 🌱 Kết nối mentor, anh chị, cộng đồng kỹ thuật
+- 🌡️ Hệ thống giám sát môi trường & cảnh báo
+- 🏠 Ứng dụng IoT/Smart system trong học tập và đời sống
 
 ---
 
-## 📦 Repo này có gì?
-Repo này là nơi lưu trữ và quản lý:
-- 📘 `docs/` — Tài liệu học tập, slide workshop, hướng dẫn
-- 🧩 `projects/` — Source code & mô tả dự án theo team/chủ đề
-- 🖼️ `assets/` — Logo, banner, hình ảnh hoạt động
-- 🧰 `tools/` — Script hỗ trợ (nếu có)
+## 🏆 Sân chơi & Cuộc thi
+CLB thường xuyên tham gia các **sân chơi kỹ thuật lớn nhỏ**, trong đó có mục tiêu trọng điểm là **Robocon** 🥇🤖.
 
-> 🔥 Mẹo: Mỗi dự án nên có `README.md` riêng để mô tả mục tiêu, phần cứng, sơ đồ, cách chạy.
+Bên cạnh đó, **hằng năm CLB tổ chức các giải robot mini** 🎮🏁 để:
+- 🧑‍🎓 Tạo cơ hội cho sinh viên **trong và ngoài Khoa** được trải nghiệm thi đấu
+- 🤝 Giao lưu học hỏi, kết nối đam mê kỹ thuật
+- 🚀 Phát hiện – bồi dưỡng nhân lực cho các đội thi lớn hơn
+- 🎯 Khuyến khích văn hoá “làm sản phẩm thật, chạy robot thật, thi thật”
 
----
-
-## 🧭 Lộ trình cho người mới
-Nếu bạn là người mới, có thể đi theo roadmap sau:
-
-### 🌱 Level 0 — Làm quen (1–2 tuần)
-- ✅ Linh kiện cơ bản, breadboard, nguồn, đồng hồ đo
-- ✅ Làm mạch LED, nút nhấn, buzzer, cảm biến đơn giản
-
-### ⚙️ Level 1 — Nhúng cơ bản (2–4 tuần)
-- ✅ Arduino/ESP32: đọc cảm biến, PWM, servo/DC motor
-- ✅ Debug & code sạch: chia module, đặt tên biến, comment hợp lý
-
-### 🤖 Level 2 — Dự án mini (1 tháng)
-- ✅ Làm dự án nhóm + demo + viết tài liệu
-- ✅ Biết dùng GitHub: branch, commit, pull request
-
-### 🚀 Level 3 — Nâng cao (dài hạn)
-- ✅ STM32/RTOS (tuỳ team), giao tiếp UART/I2C/SPI/CAN
-- ✅ Thiết kế PCB, tối ưu cơ khí, điều khiển tốt hơn, IoT triển khai
+> Với CLB, cuộc thi không chỉ là “thi cho vui” — mà là nơi rèn **kỷ luật, teamwork, kỹ năng xử lý vấn đề và tinh thần chịu trách nhiệm**.
 
 ---
 
 ## 🧩 Tham gia & đóng góp
 ### 👋 Ai có thể tham gia?
-- 🐣 **Newbie**: chưa biết gì vẫn OK (chỉ cần chăm và nghiêm túc)
-- 🧑‍💻 **Intermediate/Advanced**: làm leader/mentor, build dự án lớn
+- 🐣 **Newbie**: chưa biết gì vẫn tham gia được (quan trọng là chăm và nghiêm túc)
+- 🧑‍💻 **Intermediate/Advanced**: tham gia dự án lớn, dẫn nhóm, làm mentor
 
-### 🧾 Cách đóng góp cho repo
+### 🤝 Bạn nhận được gì khi tham gia?
+- ✅ Nền tảng kỹ thuật vững hơn qua thực hành
+- ✅ Kinh nghiệm làm dự án nhóm (giống môi trường công việc thật)
+- ✅ Cơ hội tham gia cuộc thi, workshop, giao lưu kỹ thuật
+- ✅ Kết nối anh chị/mentor và cộng đồng
+
+### 🧾 Cách đóng góp cho repo (nếu CLB dùng GitHub để quản lý dự án)
 1. 🍴 Fork repo
 2. 🌿 Tạo nhánh: `feature/ten-tinh-nang` hoặc `fix/ten-loi`
 3. ✅ Commit rõ ràng: `add: ...` / `fix: ...` / `docs: ...`
