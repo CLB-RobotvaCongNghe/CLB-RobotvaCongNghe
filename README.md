@@ -5,7 +5,7 @@
   <h3>⚡ Khoa Điện & Tự động hoá — Trường Đại học Kinh tế - Kỹ thuật Công nghiệp (UNETI)</h3>
 
   <p>
-    <b>🔥 Slogan:</b> <i>“Dám nghĩ, dám làm, dám chịu trách nhiệm.”</i>
+    <b>🔥</b> <i>“Dám nghĩ, dám làm, dám chịu trách nhiệm.”</i>
   </p>
 
   <p>
@@ -97,12 +97,6 @@ Bên cạnh đó, **hằng năm CLB tổ chức các giải robot mini** 🎮�
 - ✅ Cơ hội tham gia cuộc thi, workshop, giao lưu kỹ thuật
 - ✅ Kết nối anh chị/mentor và cộng đồng
 
-### 🧾 Cách đóng góp cho repo (nếu CLB dùng GitHub để quản lý dự án)
-1. 🍴 Fork repo
-2. 🌿 Tạo nhánh: `feature/ten-tinh-nang` hoặc `fix/ten-loi`
-3. ✅ Commit rõ ràng: `add: ...` / `fix: ...` / `docs: ...`
-4. 🔁 Tạo Pull Request và mô tả thay đổi
-
 ---
 
 ## 📌 Quy tắc “nhẹ” của CLB
@@ -115,9 +109,9 @@ Bên cạnh đó, **hằng năm CLB tổ chức các giải robot mini** 🎮�
 ---
 
 ## 📬 Liên hệ
-- 📣 Fanpage/Group: *(thêm link tại đây)*
-- ✉️ Email: *(thêm email tại đây)*
-- 🏫 Địa điểm sinh hoạt: *(thêm phòng/lab tại đây)*
+- 📣 Fanpage/Group: [Linh Facebook CLB](https://www.facebook.com/CLBRobotvaCongnghekhoadientudonghoa)
+- ✉️ Email: [Địa Chỉ Email CLB](mailto://caulacbornt@gmail.com)
+- 🏫 Địa điểm sinh hoạt: 810-HA10 Trường Đại Học Kinh Tế-Kỹ Thuật Công Nghiệp
 
 ---
 
