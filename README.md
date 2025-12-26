@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="assets/thanhvien.png" alt="Thành viên CLB" width="900" />
+  <img src="assets/thanhvien.jpg" alt="Thành viên CLB" width="900" />
 </div>
 
 ---
